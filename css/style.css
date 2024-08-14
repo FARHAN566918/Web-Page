@@ -1,0 +1,17 @@
+.conteiner-1{
+  width: 400px;
+  height: 300px;
+  margin: 10px;
+}
+.conteiner-1 img{
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
+}
+.main-conteiner{
+  display: flex;
+}
+.main-conteiner button{
+color: blue;
+border: none;
+}
